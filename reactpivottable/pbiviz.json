@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "reactPivottable",
+        "displayName": "ReactPivottable",
+        "guid": "reactPivottableB37CADD81B0E480081DAD3324BFFAA96",
+        "visualClassName": "Visual",
+        "version": "0.5.0",
+        "description": "React PivotTable",
+        "supportUrl": "local.me",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "3.8.0",
+    "author": {
+        "name": "Neftalí Michelet",
+        "email": "neftalimich@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}

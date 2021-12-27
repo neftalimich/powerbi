@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "allowJs": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "target": "es6",
+        "sourceMap": true,
+        "outDir": "./.tmp/build/",
+        "moduleResolution": "node",
+        "declaration": true,
+        "lib": [
+            "es2016",
+            "es2017",
+            "dom",
+            "es2017.object"
+        ],
+        "jsx": "react",
+        "types": [
+            "react",
+            "react-dom"
+        ]
+    },
+    "files": [
+        "./src/visual.ts"
+    ]
+}
